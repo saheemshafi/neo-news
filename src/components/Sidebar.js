@@ -1,14 +1,10 @@
-import React, { useRef } from 'react';
-import { BiStation, BiBriefcase, BiBong, BiVideoRecording, BiFirstAid, BiTennisBall, BiDevices, BiMenuAltLeft } from "react-icons/bi";
+import React from 'react';
+import { BiStation, BiBriefcase, BiBong, BiVideoRecording, BiFirstAid, BiTennisBall, BiDevices } from "react-icons/bi";
 
 function Sidebar(props) {
-    const handleMenu = () => {
-        document.getElementById('Main').classList.toggle("-translate-x-full");
-    }
+
     return (
-        <>
-            <button onClick={handleMenu} className="absolute right-2 top-4 text-black p-3"><BiMenuAltLeft size={24} /></button>
-            <aside className="fixed left-0 z-40 transform -translate-x-full xl:translate-x-0 ease-in-out transition duration-500" id="sidebar">
+            <aside className="fixed left-0 z-40">
                 <div id="Main" className="xl:rounded-r min-h-[100vh] transform  xl:translate-x-0 flex justify-start items-start h-full sm:w-64 bg-gray-900 flex-col">
 
                     <div className="rounded-r bg-gray-900 xl:hidden flex w-full px-6 py-3 items-center ">
@@ -69,7 +65,6 @@ function Sidebar(props) {
                     </div>
                 </div>
             </aside>
-        </>
     )
 }
 

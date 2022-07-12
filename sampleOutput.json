@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Get all the best Amazon Prime Day clothing deals right now - CNN Underscored",
+            "description": "Prime Day is finally here. You may associate Amazon Prime Day with tech, electronic and gadget sales, but the great deals stretch into clothing, accessories, beauty, footwear and everything in between. Whether you’re looking for back-to-school basics for the …",
+            "url": "https://www.cnn.com/cnn-underscored/deals/best-clothing-deals-amazon-prime-day-2022",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/underscored-prime-day-2022-article-lead-image-clothing.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-07-12T16:27:00Z",
+            "content": "Want more deals? Visit CNN Underscoreds Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale.\r\nAmazon Prime Day is finally here. You may asso… [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Walmart to electrify its delivery fleet with Canoo EVs - Reuters",
+            "description": "Walmart Inc <a href=\"https://www.reuters.com/companies/WMT.N\" target=\"_blank\">(WMT.N)</a> has struck a deal with Canoo Inc <a href=\"https://www.reuters.com/companies/GOEV.O\" target=\"_blank\">(GOEV.O)</a> to buy 4,500 electric vehicles as part of the U.S. retai…",
+            "url": "https://www.reuters.com/business/retail-consumer/walmart-expand-its-delivery-fleet-with-evs-canoo-2022-07-12/",
+            "urlToImage": "https://www.reuters.com/resizer/ysubV2DigZ8tKec--RsuexnKQlE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/55H7GZ5UAVNPFF2S7L7IXSJFI4.jpg",
+            "publishedAt": "2022-07-12T16:04:00Z",
+            "content": "July 12 (Reuters) - Walmart Inc (WMT.N) has struck a deal with Canoo Inc (GOEV.O) to buy 4,500 electric vehicles as part of the U.S. retailer's goal to achieve net-zero emissions by 2040, the compani… [+2081 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Timothy Bella",
+            "title": "Elon Musk says Trump should 'hang up his hat and sail into the sunset' - The Washington Post",
+            "description": "Musk responded to a video of Trump claiming Saturday that the billionaire Tesla CEO lied about voting for the former Republican president.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/12/elon-musk-trump-twitter-president-2024/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H7K4F3QBMII63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-12T15:59:24Z",
+            "content": "Comment on this story\r\nDays after former president Donald Trump claimed Elon Musk lied about voting for him, the billionaire Tesla chief executive said Monday that Trump should hang up his hat and sa… [+5307 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Fresh US Inflation Peak to Keep Fed on Aggressive Rate Path - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=eaca13c8-0203-11ed-8c04-4c6f77656767&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0xMi9mcmVzaC11cy1pbmZsYXRpb24tcGVhay10by1rZWVwLWZlZC1vbi1hZ2dyZXNzaXZlLXJhdGUtcGF0aA==",
+            "urlToImage": null,
+            "publishedAt": "2022-07-12T14:58:22Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer: July 13th will be the market bottom - CNBC Television",
+            "description": "'Mad Money' host Jim Cramer and the 'Squawk on the Street' team break down Elon Musk's Twitter battle and the market.",
+            "url": "https://www.youtube.com/watch?v=iett4yym0v0",
+            "urlToImage": "https://i.ytimg.com/vi/iett4yym0v0/hqdefault.jpg",
+            "publishedAt": "2022-07-12T14:44:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Joy Summers, Sharyn Jackson, Nicole Hvidsten",
+            "title": "These are the 38 new Minnesota State Fair foods for 2022 - Star Tribune",
+            "description": "Cotton candy flavored soda, fried chicken on a stick, vegan fried steak, and more to look forward to at the fair.",
+            "url": "https://www.startribune.com/these-are-the-38-new-state-fair-foods-for-2022/600189492/",
+            "urlToImage": "https://chorus.stimg.co/23761370/13_deep_fried_ice_cream.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2022-07-12T14:37:30Z",
+            "content": "The Minnesota State Fair released its 2022 list of new foods, and this year's list does not disappoint. All of the requisite items are represented: fried delicacies never seen before in polite societ… [+11438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ariel Zilber",
+            "title": "Starbucks to close 16 US stores because of crime, rampant drug use - New York Post ",
+            "description": "Starbucks is shuttering 16 store locations nationwide after store managers reported a surge in drug use among customers and outsiders as well as an increase in crime in certain areas. Six Starbucks…",
+            "url": "https://nypost.com/2022/07/12/starbucks-to-close-16-us-stores-over-crime-rampant-drug-use/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23014736-1657635963402.jpg?quality=75&strip=all&1657621622&w=1024",
+            "publishedAt": "2022-07-12T14:28:00Z",
+            "content": "Starbucks is shuttering 16 store locations nationwide after store managers reported a surge in drug use among customers and outsiders as well as an increase in crime in certain areas.\r\nSix Starbucks … [+2654 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/kris-holt",
+            "title": "Peloton gives up on building its own products after just three years | Engadget - Engadget",
+            "description": "It will switch to third-party manufacturing for fitness gear like Bike and Tread..",
+            "url": "https://www.engadget.com/peloton-will-no-longer-make-its-own-connected-fitness-products-141307048.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-12/5a7f84c0-4ab3-11eb-9f5e-52f15603bfd6",
+            "publishedAt": "2022-07-12T14:16:44Z",
+            "content": "Peloton\r\n will no longer build its own connected fitness products, as it's moving entirely to third-party manufacturing. It said in a statement\r\n that it's \"exiting all owned-manufacturing operations… [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Joe Wallace",
+            "title": "Stocks Open Mixed, Oil Falls on Growth Concerns - The Wall Street Journal",
+            "description": "U.S. stock indexes were mixed at the opening while oil prices and bond yields fell on worries that major economies are headed toward a recession.",
+            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-12-2022-11657611328",
+            "urlToImage": "https://images.wsj.net/im-581247/social",
+            "publishedAt": "2022-07-12T14:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "Weed-killing chemical found in majority of U.S. urine samples - CBS News",
+            "description": "CDC study finds traces of glyphosate in more than 80% of samples, with one-third of them in kids.",
+            "url": "https://www.cbsnews.com/news/glyphosate-roundup-urine-samples-bayer-monsanto-weed-killing-chemical/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2018/08/10/603e6a37-688b-4dfd-a378-fc0ebbf86a05/thumbnail/1200x630/b3c9b44a10f24be16ef08acb20c6f33f/2018-08-07t163015z-27413134-rc18cd6d9730-rtrmadp-3-monsanto-cancer-lawsuit.jpg",
+            "publishedAt": "2022-07-12T14:02:00Z",
+            "content": "A widely used but controversial herbicide linked to cancer is showing up in people, with a government study finding glyphosate in more than 80% of urine samples from U.S. kids and adults. \r\nPart of a… [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The internet hasn't changed for decades — until now. - The Verge",
+            "description": "Satellite-based internet companies like OneWeb, SpaceX’s Starlink, and Amazon’s Project Kuiper are angling to change the shape of the internet for the first ...",
+            "url": "https://www.youtube.com/watch?v=DY6ez6wGgm8",
+            "urlToImage": "https://i.ytimg.com/vi/DY6ez6wGgm8/maxresdefault.jpg",
+            "publishedAt": "2022-07-12T14:00:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jenny Gross",
+            "title": "London's Heathrow Airport Says It Will Limit Passengers for the Summer - The New York Times",
+            "description": "Facing staff shortages that have significantly constrained capacity, the airport’s chief executive asked airlines to stop selling tickets until September.",
+            "url": "https://www.nytimes.com/2022/07/12/business/heathrow-airport-delays.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/12/business/12economy-briefing-heathrow1/12economy-briefing-heathrow1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-12T13:59:59Z",
+            "content": "When asked how Heathrow would enforce the capacity limit, a spokeswoman for the airport, Hannah Smith, said that this would be overseen by an independent coordinator, Airport Coordination Limited.\r\nT… [+850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": null,
+            "title": "Tesla tries to help Texas grid amid heat wave with its cars until it can with Powerwalls - Electrek",
+            "description": "Tesla is trying to help Texas’s electric grid again amid another heat wave with its electric cars until it can with Powerwalls as it lobbies for some rule changes. Texas has a notoriously fragile grid that is having issues supporting increasing peak electrici…",
+            "url": "https://electrek.co/2022/07/12/tesla-tries-help-texas-grid-amid-heat-wave-with-cars-until-powerwalls/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-alert-texas-grid.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-12T13:49:00Z",
+            "content": "Tesla is trying to help Texas’s electric grid again amid another heat wave with its electric cars until it can with Powerwalls as it lobbies for some rule changes.\r\nTexas has a notoriously fragile gr… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "2023 Honda CR-V | First Look - Kelley Blue Book",
+            "description": "For the latest Honda CR-V pricing and information:https://www.kbb.com/honda/cr-v/If you’ve ever seen a Honda CR-V you’ve probably guessed that is the new 202...",
+            "url": "https://www.youtube.com/watch?v=5RlHcBYh400",
+            "urlToImage": "https://i.ytimg.com/vi/5RlHcBYh400/hqdefault.jpg",
+            "publishedAt": "2022-07-12T13:00:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Oil Sinks on Demand Concerns as IEA Sees Energy Crisis Enduring - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2e1e0e55-01f3-11ed-9210-4f707a52466e&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0xMS9vaWwtZXh0ZW5kcy1kcm9wLWFzLWNvbmNlcm5zLW92ZXItZWNvbm9taWMtc2xvd2Rvd24tZ3JpcC1tYXJrZXQ=",
+            "urlToImage": null,
+            "publishedAt": "2022-07-12T12:48:42Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "John Carroll",
+            "title": "No surrender: A group of marquee biotech players bets on the $350M PhIII resurrection story of a heavyweight contender - Endpoints News",
+            "description": "Anyone reading Biogen’s press release on the flat failure of dexpramipexole in treating ALS couldn’t overlook the note of finality then R&D chief Doug Williams used to mark its grave 10 years ago. The drug failed the primary endpoint. Follow-up analysis left …",
+            "url": "https://endpts.com/no-surrender-a-group-of-marquee-biotech-players-bets-on-the-350m-phiii-resurrection-story-of-a-heavyweight-contender/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2022/07/Adam-Koppel-Mike-Bozik-and-Clive-Meanwell.jpg",
+            "publishedAt": "2022-07-12T12:42:01Z",
+            "content": "A nine-figure raise is a lot of money for private biotechs, and something that many are eager to publicize. But one startup is keeping its mouth almost completely shut about a new funding round, inst… [+386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Goldman Sachs hires Alphabet tech incubator CEO Jared Cohen for new innovation group - CNBC",
+            "description": "It's the latest step Goldman CEO David Solomon has taken to inject a technology focus into the 153-year-old investment bank.",
+            "url": "https://www.cnbc.com/2022/07/12/goldman-sachs-hires-alphabet-tech-incubator-ceo-jared-cohen-for-new-innovation-group.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105841062-1554817829241img_0030.jpg?v=1554817886&w=1920&h=1080",
+            "publishedAt": "2022-07-12T12:30:11Z",
+            "content": "Goldman Sachs CEO David Solomon has hired another senior executive from the technology sector.\r\nThe investment bank is adding Alphabet's Jared Cohen, a protege of former Google CEO Eric Schmidt and f… [+1075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "MacKenzie Sigalos",
+            "title": "Founders of bankrupt crypto hedge fund 3AC go missing, as investors try to recoup assets - CNBC",
+            "description": "Lawyers representing 3AC's creditors say the physical whereabouts of Zhu Su and Kyle Davies are \"currently unknown.\"",
+            "url": "https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107060745-1652443536065-gettyimages-1240533380-AFP_329P2QE.jpeg?v=1652447507&w=1920&h=1080",
+            "publishedAt": "2022-07-12T12:29:02Z",
+            "content": "The co-founders of failed crypto hedge fund Three Arrows Capital appear to be on the run from creditors, according to court documents recently filed in New York.\r\nLawyers representing the creditors s… [+3861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Wirecutter Staff",
+            "title": "Target Deal Days 2022: Prime Day Deals From Target - The New York Times",
+            "description": "Target is targeting Prime Day shoppers in 2022 with its own three-day Deal Days event. Here are the best deals we’ve found on Wirecutter picks.",
+            "url": "https://www.nytimes.com/wirecutter/money/target-deal-days-prime-day-2022/",
+            "urlToImage": "https://cdn.thewirecutter.com/wp-content/media/2022/07/target-deals-2048px-3x2-v1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+            "publishedAt": "2022-07-12T11:33:30Z",
+            "content": "Offering a lightweight design and comfortable fit, the Linkbuds S are another good option we like in our upcoming update to our wireless Bluetooth earbuds guide. They have middling noise cancellation… [+2216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Mike Calia",
+            "title": "5 things to know before the stock market opens Tuesday - CNBC",
+            "description": "Here are the most important news items that investors need to start their trading day.",
+            "url": "https://www.cnbc.com/2022/07/12/5-things-to-know-before-the-stock-market-opens-tuesday-july-12.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107085478-1657185428155-gettyimages-1405436430-dscf9132_lqjmzb4m.jpeg?v=1657185479&w=1920&h=1080",
+            "publishedAt": "2022-07-12T11:29:34Z",
+            "content": "People walk by the NYSE in New York City.\r\nHere are the most important news items that investors need to start their trading day:\r\n1. Futures slide\r\nStock futures fell Tuesday morning, setting up a s… [+3174 chars]"
+        }
+    ]
+}
