@@ -1,12 +1,21 @@
 import React, { useState, useEffect } from 'react'
-import NewsItem from './NewsItem'
+import NewsItem from './NewsItem';
+import InfiniteScroll from 'react-infinite-scroll-component';
+import Spinner from './Spinner';
+import PropTypes from 'prop-types'
 
 function News(props) {
     const [articles, setArticles] = useState([]);
+    const [page, setPage] = useState(0)
+    const [totalResults, setTotalResults] = useState(0)
+    const [isLoading, setLoading] = useState(true);
     const fetchData = async () => {
-        let res = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${props.category}&apiKey=${props.apiKey}&pageCount=6`);
+        let res = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`);
+        setPage(page + 1)
         let data = await res.json();
-        setArticles(data.articles);
+        setArticles(articles.concat(data.articles));
+        setTotalResults(data.totalResults)
+        setLoading(false)
     }
     const capitalize = (string) => {
         return string.charAt(0).toUpperCase() + string.slice(1);
@@ -24,8 +33,25 @@ function News(props) {
                     return <NewsItem key={article.url} title={article.title} description={article.description} author={article.author} image={article.urlToImage} source={article.source.name} url={article.url} date={article.publishedAt} />
                 })}
             </div>
+            {isLoading && <Spinner />}
+            <InfiniteScroll
+                dataLength={articles.length} //This is important field to render the next data
+                next={fetchData}
+                hasMore={articles.length !== totalResults}
+                loader={<Spinner />} >
+            </InfiniteScroll>
         </section>
+
     )
 }
-
+News.propTypes = {
+    country: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string
+}
+News.defaultProps = {
+    country: "in",
+    pageSize: 6,
+    category: "general"
+}
 export default News
