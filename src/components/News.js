@@ -27,7 +27,7 @@ function News(props) {
 
     return (
         <section className="min-h-screen pt-2 pl-2 pr-2 sm:pl-64 bg-gray-800">
-            <div className="text-3xl font-semibold pb-3 pl-5 mt-3 border border-transparent border-b-yellow-400 text-gray-200">Top headlines - {capitalize(props.category)}</div>
+            <div className="text-xl sm:text-2xl md:text-3xl font-semibold pb-3 pl-5 mt-3 border border-transparent border-b-yellow-400 text-gray-200">Top headlines - {capitalize(props.category)}</div>
             <div className="grid grid-cols-1 lg:grid-cols-2">
                 {articles.map((article) => {
                     return <NewsItem key={article.url} title={article.title} description={article.description} author={article.author} image={article.urlToImage} source={article.source.name} url={article.url} date={article.publishedAt} />
