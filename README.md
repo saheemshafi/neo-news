@@ -14,11 +14,11 @@
 
 ## Important Thing To Do
 
-Command:Open terminal and run npx `<pre>tailwind-css init</pre>`
+Command:Open terminal and run npx `tailwind-css init`
 
 **Note:Open tailwind config.js and add `./src/**/*.{'js','jsx'}` in the *CONTENT*.
 ## Important File Needed
 
 .env.local
 
-Note: Use `<pre>REACT_APP_API_KEY = YOUR API KEY</pre>` in .env.local*
+Note: Use `REACT_APP_API_KEY = YOUR API KEY` in .env.local*
