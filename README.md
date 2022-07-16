@@ -16,7 +16,7 @@
 
 Command:Open terminal and run *npx tailwind-css init*
 
-**Note:Open tailwind config.js and add ./src/**/*.{'js','jsx'} in the *CONTENT*.
+**Note:Open tailwind config.js and add ./src/[**]/[*].{'js','jsx'} in the *CONTENT*.
 ## Important File Needed
 
 .env.local
