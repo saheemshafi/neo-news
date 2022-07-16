@@ -16,11 +16,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Important Thing To Do
 
-**Note:Open terminal and run npx tailwind-css init
+*Note:Open terminal and run npx tailwind-css init*
 
 **Note:Open tailwind config.js and add ./src/**/*.{'js','jsx'} in the *CONTENT*.
 ## Important File Needed
 
 .env.local
 
-**Note: Use REACT_APP_API_KEY = YOUR API KEY IN .env.local
+Note: *Use REACT_APP_API_KEY = YOUR API KEY IN .env.local*
